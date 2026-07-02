@@ -336,17 +336,27 @@ class Skb_Cife_Settings_API_Fields {
                         </div>
                         <div class="skb_cife-change-log-table-wrapper">
                             <table class="skb_cife-change-log-table">
-                            <tr>
-                                <td>
-                                    <label><?php echo esc_html('1.1.0 (Date: 25-06-2025)', 'skb_cife'); ?></label>
-                                    <ul>
-                                        <li><i class="dashicons dashicons-yes"></i><?php echo esc_html('Added: 300+ Icofont Duotone New Icons', 'skb_cife'); ?></li>
-                                        <li><i class="dashicons dashicons-yes"></i><?php echo esc_html('Compatible: Compatibility check with latest version of Elementor', 'skb_cife'); ?></li>
-                                        <li><i class="dashicons dashicons-yes"></i><?php echo esc_html__('Improved: Code structure for maintainability and increase performance .', 'skb_cife'); ?></li>
-                                        <li><i class="dashicons dashicons-yes"></i><?php echo esc_html__('Fix: Some minor issues fixed.', 'skb_cife'); ?></li>
-                                    </ul>
-                                </td>
-                            </tr>                                 
+                                <tr>
+                                    <td>
+                                        <label><?php echo esc_html('1.1.1 (Date: 02-07-2026)', 'skb_cife'); ?></label>
+                                        <ul>
+                                            <li><i class="dashicons dashicons-yes"></i><?php echo esc_html('Tested WordPress Version 7.0', 'skb_cife'); ?></li>
+                                            <li><i class="dashicons dashicons-yes"></i><?php echo esc_html__('Compatible: Compatibility check with latest version of Elementor', 'skb_cife'); ?></li>
+                                            <li><i class="dashicons dashicons-yes"></i><?php echo esc_html__('- Added devshaddam as contributor', 'skb_cife'); ?></li>
+                                        </ul>
+                                    </td>
+                                </tr>                                 
+                                <tr>
+                                    <td>
+                                        <label><?php echo esc_html('1.1.0 (Date: 25-06-2025)', 'skb_cife'); ?></label>
+                                        <ul>
+                                            <li><i class="dashicons dashicons-yes"></i><?php echo esc_html('Added: 300+ Icofont Duotone New Icons', 'skb_cife'); ?></li>
+                                            <li><i class="dashicons dashicons-yes"></i><?php echo esc_html('Compatible: Compatibility check with latest version of Elementor', 'skb_cife'); ?></li>
+                                            <li><i class="dashicons dashicons-yes"></i><?php echo esc_html__('Improved: Code structure for maintainability and increase performance .', 'skb_cife'); ?></li>
+                                            <li><i class="dashicons dashicons-yes"></i><?php echo esc_html__('Fix: Some minor issues fixed.', 'skb_cife'); ?></li>
+                                        </ul>
+                                    </td>
+                                </tr>                                 
                                 <tr>
                                     <td>
                                         <label><?php echo esc_html('1.0.9 (Date: 28-04-2025)', 'skb_cife'); ?></label>
