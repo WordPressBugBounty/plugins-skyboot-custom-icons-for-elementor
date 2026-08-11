@@ -549,7 +549,7 @@ class Skb_Cife_Line_Icon_Manager{
 	    
 	    $line_icons_args['skb_cife-line-icon'] = array(
 	        'name'          => 'skb_cife-line-icon',
-	        'label'         => esc_html__( 'Skyboot:: Line Icon', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Line Icon', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'lni lni-lineicons',
 	        'prefix'        => 'lni-',
 	        'displayPrefix' => 'lni',

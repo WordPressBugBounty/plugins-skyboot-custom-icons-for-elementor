@@ -972,7 +972,7 @@ class Skb_Cife_Brands_Icon_Manager{
 	    
 	    $brands_icons_args['skb_cife-brands-icon'] = array(
 	        'name'          => 'skb_cife-brands-icon',
-	        'label'         => esc_html__( 'Skyboot:: Brands Icons', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Brands Icons', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'fa fa-user',
 	        'prefix'        => 'icomoon_brands-',
 	        'displayPrefix' => 'icomoon_brands',

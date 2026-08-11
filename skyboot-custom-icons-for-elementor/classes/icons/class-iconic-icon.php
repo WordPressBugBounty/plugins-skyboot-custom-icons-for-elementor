@@ -209,7 +209,7 @@ class Skb_Cife_Iconic_Icon_Manager{
 	    
 	    $iconic_icons_args['skb_cife-iconic-icon'] = array(
 	        'name'          => 'skb_cife-iconic-icon',
-	        'label'         => esc_html__( 'Skyboot:: Iconic Icons', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Iconic Icons', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'fa fa-user',
 	        'prefix'        => 'iconic-',
 	        'displayPrefix' => 'iconic',

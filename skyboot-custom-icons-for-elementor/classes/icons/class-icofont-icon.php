@@ -2465,7 +2465,7 @@ class Skb_Cife_Icofont_Icon_Manager{
         // Register the Icofont Tab
         $tabs['skb_cife-icofont-icon'] = [
             'name'          => 'skb_cife-icofont-icon',
-            'label'         => esc_html__( 'Icofont', 'skb_cife' ),
+            'label'         => esc_html__( 'Skyboot:: Icofont', 'skyboot-custom-icons-for-elementor' ),
             'url'           => SKB_CIFE_ASSETS . 'css/icofont.min.css',
             'enqueue'       => [],
             'prefix'        => 'icofont-',
@@ -2473,20 +2473,18 @@ class Skb_Cife_Icofont_Icon_Manager{
             'labelIcon'     => 'icofont-bell',
             'ver'           => SKB_CIFE_VERSION,
             'icons'         => $this->get_regular_icons(), // Refer to the icon list
-            'native'        => true,
         ];		
 
         // Register the Icofont Duotone Tab
         $tabs['skb_cife-icofont-duotone-icon'] = [
             'name'          => 'skb_cife-icofont-duotone-icon',
-            'label'         => esc_html__( 'Icofont - Duotone', 'skb_cife' ),
+            'label'         => esc_html__( 'Skyboot:: Icofont - Duotone', 'skyboot-custom-icons-for-elementor' ),
 			'enqueue'       => [ 'elementor-icons-skb_cife-icofont-icon' ],
-            'prefix'        => 'icofont-duotone icofont-',
-            'displayPrefix' => 'icofont',
+            'prefix'        => 'icofont-',
+            'displayPrefix' => 'icofont icofont-duotone',
             'labelIcon'     => 'icofont-duotone icofont-add-users',
             'ver'           => SKB_CIFE_VERSION,
             'icons'         => $this->get_duotone_icons(), // Refer to the icon list
-            'native'        => true,
         ];
 
         return $tabs;

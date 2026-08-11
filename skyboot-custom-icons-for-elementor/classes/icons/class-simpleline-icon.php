@@ -227,7 +227,7 @@ class Skb_Cife_Simple_Line_Icon_Manager{
 	    
 	    $simple_line_icons_args['skb_cife-simple_line-icon'] = array(
 	        'name'          => 'skb_cife-simple_line-icon',
-	        'label'         => esc_html__( 'Skyboot:: Simple Line Icon', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Simple Line Icon', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'fas fa-user',
 	        'prefix'        => 'icon-',
 	        'displayPrefix' => 'icons',

@@ -2043,7 +2043,7 @@ class Skb_Cife_Line_Awesome_Icon_Manager{
 	    
 	    $lineawesome_icons_args['skb_cife-lineawesome-icon'] = array(
 	        'name'          => 'skb_cife-lineawesome-icon',
-	        'label'         => esc_html__( 'Skyboot:: Line Awesome', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Line Awesome', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'fas fa-user',
 	        'prefix'        => '',
 	        'displayPrefix' => '',

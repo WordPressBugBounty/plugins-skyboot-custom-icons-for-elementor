@@ -5383,7 +5383,7 @@ class Skb_Cife_Material_Design_Icon_Manager{
 	    
 	    $materialdesign_icons_args['skb_cife-materialdesign-icon'] = array(
 	        'name'          => 'skb_cife-materialdesign-icon',
-	        'label'         => esc_html__( 'Skyboot:: Material Design Icon', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Material Design Icon', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'mdi mdi-material-design',
 	        'prefix'        => 'mdi-',
 	        'displayPrefix' => 'mdi',

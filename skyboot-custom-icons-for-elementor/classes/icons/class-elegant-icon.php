@@ -398,7 +398,7 @@ class Skb_Cife_Elegant_Icon_Manager{
 	    
 	    $elegant_icons_args['skb_cife-elegant-icon'] = array(
 	        'name'          => 'skb_cife-elegant-icon',
-	        'label'         => esc_html__( 'Skyboot:: Elegant Icon', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Elegant Icon', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'fas fa-user',
 	        'prefix'        => '',
 	        'displayPrefix' => '',

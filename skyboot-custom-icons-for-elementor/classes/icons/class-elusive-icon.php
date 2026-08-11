@@ -340,7 +340,7 @@ class Skb_Cife_Elusive_Icon_Manager{
 	    
 	    $elusive_icons_args['skb_cife-elusive-icon'] = array(
 	        'name'          => 'skb_cife-elusive-icon',
-	        'label'         => esc_html__( 'Skyboot:: Elusive Icons', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Elusive Icons', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'fa fa-user',
 	        'prefix'        => 'el-',
 	        'displayPrefix' => 'el',

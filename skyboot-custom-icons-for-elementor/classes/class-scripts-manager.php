@@ -23,21 +23,8 @@ class Skb_Cife_Scripts{
     }
 
     public function init() {
-        // Admin scripts
-        add_action('admin_enqueue_scripts', [ $this, 'enqueue_admin_scripts' ] );
-    }
-
-    /*----------------
-    * Admin Scripts
-    * ----------------*/
-    public function enqueue_admin_scripts(){
-        // This part runs in the admin
-        wp_enqueue_style(
-            'skb-cife-skyboot-admin',
-            SKB_CIFE_ASSETS . 'css/skyboot-admin.css',
-            [], // No dependencies.
-            SKB_CIFE_VERSION
-        );
+        // Admin dashboard assets are enqueued by Skb_Cife_Admin (always loaded
+        // in admin) so they also cover the welcome & Go-Pro pages.
     }
 
     /*----------------

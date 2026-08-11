@@ -388,7 +388,7 @@ class Skb_Cife_Themify_Icon_Manager{
 	    
 	    $themify_icons_args['skb_cife-themify-icon'] = array(
 	        'name'          => 'skb_cife-themify-icon',
-	        'label'         => esc_html__( 'Skyboot:: Themify Icon', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Themify Icon', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'fas fa-user',
 	        'prefix'        => '',
 	        'displayPrefix' => '',

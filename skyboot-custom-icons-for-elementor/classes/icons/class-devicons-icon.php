@@ -228,7 +228,7 @@ class Skb_Cife_Devicons_Icon_Manager{
 	    
 	    $devicons_icons_args['skb_cife-devicons-icon'] = array(
 	        'name'          => 'skb_cife-devicons-icon',
-	        'label'         => esc_html__( 'Skyboot:: Devicons Icons', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Devicons Icons', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'fa fa-user',
 	        'prefix'        => 'devicons-',
 	        'displayPrefix' => 'devicons',

@@ -734,7 +734,7 @@ class Skb_Cife_Ion_Icon_Manager{
 	    
 	    $ion_icons_args['skb_cife-ion-icon'] = array(
 	        'name'          => 'skb_cife-ion-icon',
-	        'label'         => esc_html__( 'Skyboot:: Ionicons', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Ionicons', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'ion-logo-ionic',
 	        'prefix'        => 'ion-',
 	        'displayPrefix' => '',

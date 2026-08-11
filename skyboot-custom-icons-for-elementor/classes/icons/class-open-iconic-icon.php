@@ -262,7 +262,7 @@ class Skb_Cife_class_Open_Iconic_Icon_Manager{
 	    
 	    $open_iconic_icons_args['skb_cife-open_iconic-icon'] = array(
 	        'name'          => 'skb_cife-open_iconic-icon',
-	        'label'         => esc_html__( 'Skyboot:: Open Iconic Icon', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Open Iconic Icon', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'fas fa-user',
 	        'prefix'        => 'oi-',
 	        'displayPrefix' => 'oi',

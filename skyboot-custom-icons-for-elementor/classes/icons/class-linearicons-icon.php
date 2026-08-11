@@ -207,7 +207,7 @@ class Skb_Cife_linearicons_Icon_Manager{
 	    
 	    $linearicons_icons_args['skb_cife-linearicons-icon'] = array(
 	        'name'          => 'skb_cife-linearicons-icon',
-	        'label'         => esc_html__( 'Skyboot:: Linearicons Icon', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Linearicons Icon', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'lnr lnr-linearicons',
 	        'prefix'        => 'lnr-',
 	        'displayPrefix' => 'lnr',

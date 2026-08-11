@@ -4,10 +4,10 @@ Tags: elementor, custom icons, elementor icons, icons, icon fonts
 Author URI:  https://skybootstrap.com
 Plugin URI:  https://skybootstrap.com/custom-icons-for-elementor
 Donate Link: https://buymeacoffee.com/skybootstrap
-Requires at least: 6.0
-Requires PHP: 7.0
-Tested up to: 7.0
-Stable tag: 1.1.1
+Requires at least: 6.8
+Requires PHP: 7.4
+Tested up to: 7.0.3
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,7 +35,7 @@ Most of the popular brand icons are available in every icon package like Google 
 ✅ Devicons Icons (191)
 ✅ Elegant Icon (360)
 ✅ Elusive Icons (303)
-✅ Icofont (2400+)
+✅ Icofont (2400+) including 300+ Duotone icons
 ✅ Ico Moon / icomoon (491)
 ✅ Iconic Icons (172)
 ✅ Ion icons / ionicons (696)
@@ -160,6 +160,15 @@ The Elementor Icon Set includes 14 icons pack. These icons cover a variety of ca
 
 
 == Changelog ==
+
+= 1.2.0 (Date: 11-08-2026) = 
+* Tweak: Redesigned the plugin settings page for a cleaner user experience.
+* Fix: Resolved an issue where IcoFont Duotone icons were not rendering correctly in the Elementor editor preview.
+* Fix: Fixed a CSS conflict with default Elementor icon alignment for Duotone icons.
+* Fix: Prevented CSS file from loading twice when multiple IcoFont variations are used on the same page.
+* Update: Corrected the icon count description for the IcoFont library.
+* Tested WordPress Version 7.0
+* Compatible: Compatibility check with latest version of Elementor
 
 = 1.1.1 (Date: 02-07-2026) = 
 *	Tested WordPress Version 7.0

@@ -528,7 +528,7 @@ class Skb_Cife_Icomoon_Icon_Manager{
 	    
 	    $icomoon_icons_args['skb_cife-icomoon-icon'] = array(
 	        'name'          => 'skb_cife-icomoon-icon',
-	        'label'         => esc_html__( 'Skyboot:: Icomoon Icons', 'skb_cife' ),
+	        'label'         => esc_html__( 'Skyboot:: Icomoon Icons', 'skyboot-custom-icons-for-elementor' ),
 	        'labelIcon'     => 'icomoon icomoon-IcoMoon',
 	        'prefix'        => 'icomoon-',
 	        'displayPrefix' => 'icomoon',
